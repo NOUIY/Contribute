@@ -1,8 +1,7 @@
 ### YamlMime:Marketing
-### YamlMime:Marketing
 title: 'Experts Hub'
 metadata:
-  title: 'Experts Hub: Share what you know. Shape what’s next.'
+  title: "Experts Hub: Share what you know. Shape what's next."
   description: 'Share your knowledge with the world as a Microsoft expert!'
 sections:
 # hero with background image
@@ -16,7 +15,7 @@ sections:
      src: media/experts-hub-long-format-400.png
 # top navigation links
   - componentType: navigation
-    size: large 
+    size: large
     alignment: center
     blocks:
       - componentType: icon-link
@@ -39,7 +38,7 @@ sections:
     questions:
       - question: Overview of this section
         answer: |
-          This section highlights high‑interest topics your audience is already searching for and talking about. Think of these as prime opportunities to create content that stands out and attracts learners who are actively looking for guidance.
+          This section highlights high-interest topics your audience is already searching for and talking about. Think of these as prime opportunities to create content that stands out and attracts learners who are actively looking for guidance.
 
           If a topic aligns with your expertise, jump in and turn it into content that showcases your voice and point of view. You might:
 
@@ -67,7 +66,7 @@ sections:
          - Developer audiences are interested in building and remotely hosting MCP servers. [This episode](https://learn.microsoft.com/shows/azure-friday/host-remote-mcp-servers-on-azure-functions), led by Scott Hanselman and Lily Ma, demonstrates how to remotely host MCP servers on Azure Functions with official MCP SDKs.
          - Explore a [deep dive into the AKS MCP Server & Agentic CLI](https://www.youtube.com/watch?v=tEPfxO1FEMk) in January's AKS community call.
          - As more audiences build AI agents, they're looking to improve cost efficiency on Azure. [This learning path on maximizing AI agent ROI](https://learn.microsoft.com/training/paths/maximize-cost-efficiency-ai-agents/) offers strategies for cost-conscious decisions, ROI forecasting, and scalable architectures to optimize investments on Azure.
-      - question: AI for all levels of .NET developers 
+      - question: AI for all levels of .NET developers
         answer: |
           Help .NET developers across multiple skill levels understand the foundations and opportunities for leveraging AI in their applications.
           - [Hands-on course](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) and [accompanying video series](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUkPkWy9EtmBvFAjfp4ZHnx) on Generative AI fundamentals with .NET.
@@ -82,7 +81,7 @@ sections:
         alt: A GitHub Copilot chat interaction with the Microsoft Learn MCP Server
         componentType: image
       - title: Content creation resources for the Microsoft Learn MCP Server
-        summary: A set of ready-to-use assets to help you accurately present, demo, and share the Microsoft Learn MCP Server with your audience. 
+        summary: A set of ready-to-use assets to help you accurately present, demo, and share the Microsoft Learn MCP Server with your audience.
         componentType: text
         links:
           - componentType: link
@@ -184,7 +183,7 @@ sections:
     title: Impactful opportunities happening now
     blocks:
       - componentType: summary-card
-        title: Contribute to awesome-azd 
+        title: Contribute to awesome-azd
         summary: Share templates for using the Azure Developer CLI (azd) by contributing to the awesome-azd collection.
         url: https://github.com/azure/awesome-azd
       - componentType: summary-card
@@ -193,7 +192,7 @@ sections:
         url: https://github.com/github/awesome-copilot
       - componentType: summary-card
         title: Join the Azure AI Foundry Discord community
-        summary: Join the Azure AI Foundry community to share your knowledge and connect with other AI experts and learners.  
+        summary: Join the Azure AI Foundry community to share your knowledge and connect with other AI experts and learners.
         url: https://discord.com/invite/microsoftfoundry
       - componentType: summary-card
         title: Agent Creators
@@ -260,7 +259,7 @@ sections:
     title: Connect with us
     links:
       - componentType: social-link
-        url: https://twitter.com/MicrosoftLearn 
+        url: https://twitter.com/MicrosoftLearn
         destination: twitter
       - componentType: social-link
         url: https://www.linkedin.com/showcase/microsoftlearn/
@@ -269,5 +268,5 @@ sections:
         url: https://www.tiktok.com/@microsoftlearn
         destination: website
       - componentType: social-link
-        url: https://aka.ms/MicrosoftLearnNewsletter 
+        url: https://aka.ms/MicrosoftLearnNewsletter
         destination: website

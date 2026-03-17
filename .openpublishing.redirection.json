@@ -13,7 +13,7 @@
         },
         {
             "source_path": "Contribute/content/dotnet/dotnet-contribute-code-analysis.md",
-            "redirect_url": "/contribute/dotnet/code-analysis-rules",
+            "redirect_url": "/contribute/content/dotnet/code-analysis-rules",
             "redirect_document_id": true
         },
         {
