@@ -52,7 +52,6 @@ sections:
         answer: |
           Grow your reputation on Microsoft Q&A by providing expert insights, clarification, and solutions on these trending topics:
 
-          - There's interest in understanding the differences between [Developer Command Prompt and Developer PowerShell in Visual Studio](https://learn.microsoft.com/answers/questions/5722678/what-are-the-different-between-developer-command-p).
           - Help Azure users [understand error codes](https://learn.microsoft.com/answers/questions/5562339/error-code-5000225-message-this-tenant-has-been-bl) related to managing [tenant lifecycles in Microsoft Entra](https://learn.microsoft.com/entra/fundamentals/inaccessible-tenant).
           - Learners want to understand how to use agents created from templates in Copilot Studio, such as the [Customer Insight template agent](https://learn.microsoft.com/answers/questions/5527396/an-agent-created-through-co-pilot-studio-is-not-ab).
       - question: 'Updates and tools for AI builders in Microsoft Foundry'
