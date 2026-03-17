@@ -2,7 +2,7 @@
 title: Contribute docs for .NET code analysis rules
 description: This article describes the process for contributing to the articles and code samples for .NET code analysis rules in the .NET docs repository.
 author: mavasani
-ms.author: mavasani
+ms.author: gewarren
 ms.topic: contributor-guide
 ms.service: learn
 ms.custom: external-contributor-guide
