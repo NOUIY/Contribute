@@ -64,11 +64,17 @@ sections:
         answer: |
          - This [Virtual Training Day session](https://www.youtube.com/watch?v=WaVISr34SSM) provides a detailed foundation to help audiences understand best practices for migrating and modernizing on Azure.
          - For more scenario-specific and troubleshooting content, check out [this blog post on migration challenges and solutions](https://techcommunity.microsoft.com/blog/itopstalkblog/azure-migration-challenges-and-how-to-resolve-them/4499618).
-      - question: Copilot CLI for GitHub Copilot
+      - question: GitHub Copilot CLI
         answer: |
           Copilot CLI is a command‑line interface that brings Copilot assistance directly into the terminal, enabling developers to generate commands, scripts, and explanations using natural language. It’s designed to help developers work faster in the CLI without switching context to an editor or chat interface.
           - Check out an [open source, hands-on course](https://github.com/github/copilot-cli-for-beginners) 
           - See video demos and additional beginner tutorials in a [YouTube playlist by GitHub](https://www.youtube.com/watch?v=BDxRhhs36ns&list=PL0lo9MOBetEHvO-spzKBAITkkTqv4RvNl)
+      - question: Agent Governance Toolkit (New)
+        answer: |
+          In April, Microsoft announced the Agent Governance Toolkit, a new, open-source runtime security toolkit designed to help agent builders govern what agents do at execution, using the tools they already work with. It was released under the Microsoft organization and MIT license, is framework-agnostic, and aligns to the OWASP Agentic AI Top 10.
+          - Review the announcement of the launch of the [Agent Governance Toolkit](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/).
+          - Dive into the full toolkit in [the open-source GitHub repo](https://github.com/microsoft/agent-governance-toolkit).
+          - Explore [Microsoft Agent Framework(MAF)](https://learn.microsoft.com/agent-framework/overview/?pivots=programming-language-csharp) to learn more about Microsoft's framework for building and orchestrating agents. The Agent Governance Toolkit can be used alongside MAF and other services.
 
 # bifold with image and text blocks
   - componentType: bifold
