@@ -52,12 +52,12 @@ sections:
         answer: |
           Grow your reputation on Microsoft Q&A by providing expert insights, clarification, and solutions on these trending topics:
 
-          - A Copilot user is seeing [Link generation issues in Excel](https://learn.microsoft.com/answers/questions/5707555/excel-copilot-is-generating-download-links-that-ha).
-          - Help a user solve [Conditional Access challenges](https://learn.microsoft.com/answers/questions/5602614/entra-conditional-access-issue) with Entra.
+          - A Copilot user is seeing [link generation issues in Excel](https://learn.microsoft.com/answers/questions/5707555/excel-copilot-is-generating-download-links-that-ha).
+          - Help a user solve [conditional Access challenges](https://learn.microsoft.com/answers/questions/5602614/entra-conditional-access-issue) with Entra.
           - Visual Studio users want to [resolve high memory usage issues](https://learn.microsoft.com/answers/questions/5744593/visual-studio-2026-uses-excessive-memory-(20gb-)-w).
       - question: Copilot Cowork
         answer: |
-          Copilot Cowork is a new capability in Microsoft 365 Copilot announced in March. It plans and carries out multi‑step tasks across emails, meetings, files, and apps, rather than only returning responses. It executes work through an explicit plan with checkpoints and approvals, allowing tasks to run while remaining within M365’s existing security and governance boundaries. It's now available to users in the [Frontier program](https://www.microsoft.com/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/?msockid=0494b01f33f86ff500b3a51332d56e84). Check out the following resources to learn more before sharing with your audiences:
+          Copilot Cowork is a new capability in Microsoft 365 Copilot, now available to users in the [Frontier program](https://www.microsoft.com/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/?msockid=0494b01f33f86ff500b3a51332d56e84). It plans and carries out multi‑step tasks across emails, meetings, files, and apps, rather than only returning responses. It executes work through an explicit plan with checkpoints and approvals, allowing tasks to run while remaining within M365’s existing security and governance boundaries. Check out the following resources to help you share Cowork with your audiences:
           - Read the [announcement post](https://www.microsoft.com/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/?msockid=0494b01f33f86ff500b3a51332d56e84) introducing Copilot Cowork and describing how it enables Copilot to plan and execute tasks across M365.
           - Check out a [short demo](https://www.youtube.com/watch?v=j8rHJsM3fxQ) of Copilot Cowork in action, including planning a [product launch and associated assets](https://www.youtube.com/watch?v=9uRuf7nB4cg)
       - question: Azure migration resources
@@ -67,11 +67,11 @@ sections:
       - question: GitHub Copilot CLI
         answer: |
           Copilot CLI is a command‑line interface that brings Copilot assistance directly into the terminal, enabling developers to generate commands, scripts, and explanations using natural language. It’s designed to help developers work faster in the CLI without switching context to an editor or chat interface.
-          - Check out an [open source, hands-on course](https://github.com/github/copilot-cli-for-beginners) 
-          - See video demos and additional beginner tutorials in a [YouTube playlist by GitHub](https://www.youtube.com/watch?v=BDxRhhs36ns&list=PL0lo9MOBetEHvO-spzKBAITkkTqv4RvNl)
-      - question: Agent Governance Toolkit (New)
+          - Check out an [open-source, hands-on course](https://github.com/github/copilot-cli-for-beginners) 
+          - See video demos and additional beginner tutorials in a [YouTube playlist created by GitHub](https://www.youtube.com/watch?v=BDxRhhs36ns&list=PL0lo9MOBetEHvO-spzKBAITkkTqv4RvNl)
+      - question: 'New: Agent Governance Toolkit'
         answer: |
-          In April, Microsoft announced the Agent Governance Toolkit, a new, open-source runtime security toolkit designed to help agent builders govern what agents do at execution, using the tools they already work with. It was released under the Microsoft organization and MIT license, is framework-agnostic, and aligns to the OWASP Agentic AI Top 10.
+          In April, Microsoft announced the Agent Governance Toolkit, a new, open-source runtime security toolkit designed to help agent builders govern what agents do at execution in the tools they already work with. It was released under the Microsoft organization and MIT license, is framework-agnostic, and aligns to the OWASP Agentic AI Top 10.
           - Review the announcement of the launch of the [Agent Governance Toolkit](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/).
           - Dive into the full toolkit in [the open-source GitHub repo](https://github.com/microsoft/agent-governance-toolkit).
           - Explore [Microsoft Agent Framework(MAF)](https://learn.microsoft.com/agent-framework/overview/?pivots=programming-language-csharp) to learn more about Microsoft's framework for building and orchestrating agents. The Agent Governance Toolkit can be used alongside MAF and other services.
